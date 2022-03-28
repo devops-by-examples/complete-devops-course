@@ -88,15 +88,19 @@
 - AWS Conclusion (Q/A, Interactive Session)
 
 ## Python
-----------
-Python 101
-Basics of Python
-Python - Data Types
-Python - Logical, Arithmetic and other Operations
-Python - Deepdive
-Python - Deepdive with examples
-Python - Flask and Django 101
-Python - Django(explaining workflow)
-Python - Django Deepdive
-Python - Django Build Live Projects
-Python - Django Build Live Projects
+---------
+
+I have developed an easy, problem oriented and competetive learning portal for Python using Readthedocs. You can refer the 
+[website](https://python-by-examples.readthedocs.io/en/latest/) for getting acquinted with Python.
+
+- Python 101
+- Basics of Python
+- Data Types
+- Logical, Arithmetic and other Operations
+- Deepdive
+- Deepdive with examples
+- Flask and Django 101
+- Django(explaining workflow)
+- Django Deepdive
+- Django Build Live Projects
+- Django Build Live Projects
