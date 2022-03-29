@@ -1,5 +1,7 @@
 # Complete Devops Course
 
+Video version of this README file is available on my [YouTube](https://youtu.be/tXRLYSVVUOI) channel.
+
 ## Basics
 ---------
 - What is DevOps and Why DevOps ?
