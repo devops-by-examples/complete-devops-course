@@ -2,6 +2,8 @@
 
 Video version of this README file is available on my [YouTube](https://youtu.be/tXRLYSVVUOI) channel.
 
+![DevOps Tools](https://github.com/devops-by-examples/complete-devops-course/blob/main/config/Images/DevOps-tools.png)
+
 ## Basics
 ---------
 - What is DevOps and Why DevOps ?
@@ -88,6 +90,7 @@ Video version of this README file is available on my [YouTube](https://youtu.be/
 - Multi Region, Fail over, Backups
 - Cost Optimization
 - AWS Conclusion (Q/A, Interactive Session)
+
 
 ## Python
 ---------
